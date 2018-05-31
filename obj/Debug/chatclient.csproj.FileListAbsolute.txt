@@ -2,7 +2,6 @@ C:\Users\User\projects\chatclient\bin\Debug\chatclient.exe.config
 C:\Users\User\projects\chatclient\bin\Debug\chatclient.exe
 C:\Users\User\projects\chatclient\bin\Debug\chatclient.pdb
 C:\Users\User\projects\chatclient\obj\Debug\chatclient.csprojResolveAssemblyReference.cache
-C:\Users\User\projects\chatclient\obj\Debug\chatclient.Form1.resources
 C:\Users\User\projects\chatclient\obj\Debug\chatclient.Properties.Resources.resources
 C:\Users\User\projects\chatclient\obj\Debug\chatclient.csproj.GenerateResource.cache
 C:\Users\User\projects\chatclient\obj\Debug\chatclient.csproj.CoreCompileInputs.cache
@@ -108,3 +107,8 @@ C:\Users\User\projects\chatclient\bin\Debug\ChatDbObjects.dll
 C:\Users\User\projects\chatclient\bin\Debug\ChatDbObjects.pdb
 C:\Users\User\projects\chatclient\obj\Debug\chatclient.exe.config
 C:\Users\User\projects\chatclient\obj\Debug\chatclient.csproj.CopyComplete
+C:\Users\User\projects\chatclient\obj\Debug\chatclient.RegisterDialog.resources
+C:\Users\User\projects\chatclient\obj\Debug\chatclient.chatWindow.resources
+C:\Users\User\projects\chatclient\obj\Debug\chatclient.VerifyDialog.resources
+C:\Users\User\projects\chatclient\obj\Debug\chatclient.adminPanel.resources
+C:\Users\User\projects\chatclient\obj\Debug\chatclient.userSelectDialog.resources
